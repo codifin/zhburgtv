@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,СТС ЖБУРГ
+#EXTINF:0 tvg-logo="" tvg-name="СТС ЖБУРГ" ,СТС ЖБУРГ
 https://132544.edgevideo.ru/streams/132544_839327/132544720/index.m3u8
-#EXTINF:-1,РЕН БАЛТИЯ
+#EXTINF:0 tvg-logo="" tvg-name="РЕН БАЛТИЯ" ,РЕН БАЛТИЯ
 https://132544.edgevideo.ru/streams/132544_839084/132544480/index.m3u8
-#EXTINF:-1,3 Канал Ж-Бурга
+#EXTINF:0 tvg-logo="" tvg-name="3 Канал Ж-Бурга" ,3 Канал Ж-Бурга
 https://132544.edgevideo.ru/streams/132544_840101/132544360/index.m3u8
