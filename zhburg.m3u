@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://github.com/codifin/zhburgtv/blob/main/logos/stszhburg.png?raw=true" tvg-name="СТС ЖБУРГ" ,СТС ЖБУРГ
+#EXTINF:0 tvg-logo="https://i.ibb.co/PCRyTb7/030c43c4-f912-481b-90a9-220342c55fed.png" tvg-name="СТС ЖБУРГ" ,СТС ЖБУРГ
 https://132544.edgevideo.ru/streams/132544_839327/132544720/index.m3u8
-#EXTINF:0 tvg-logo="https://github.com/codifin/zhburgtv/blob/main/logos/renbaltiya.png?raw=true" tvg-name="РЕН БАЛТИЯ" ,РЕН БАЛТИЯ
+#EXTINF:0 tvg-logo="https://i.ibb.co/6bJNBcD/aa263f04-5636-4ae2-9743-24aad5bab478.png" tvg-name="РЕН БАЛТИЯ" ,РЕН БАЛТИЯ
 https://132544.edgevideo.ru/streams/132544_839084/132544480/index.m3u8
-#EXTINF:0 tvg-logo="https://github.com/codifin/zhburgtv/blob/main/logos/3kanalzhburga.png?raw=true" tvg-name="3 Канал Ж-Бурга" ,3 Канал Ж-Бурга
+#EXTINF:0 tvg-logo="https://i.ibb.co/vmxyCBC/377363f2-ffa7-4c9b-97a1-c538b3e7da28.png" tvg-name="3 Канал Ж-Бурга" ,3 Канал Ж-Бурга
 https://132544.edgevideo.ru/streams/132544_840101/132544360/index.m3u8
